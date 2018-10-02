@@ -13,7 +13,7 @@ var AppComponent = /** @class */ (function () {
     AppComponent = __decorate([
         core_1.Component({
             selector: 'my-app',
-            remplate: '<h1>My First Angular 2 App<h/h1>'
+            template: '<h1>My First Angular 2 App<h/h1>'
         })
     ], AppComponent);
     return AppComponent;
